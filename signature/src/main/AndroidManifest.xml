@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    package="com.gxsandbox.signature">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- LS commented so it compiles using GX -->
+    <!--application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:replace="android:allowBackup"
+        >
+
+    </application-->
+
+</manifest>

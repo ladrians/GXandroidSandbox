@@ -1,0 +1,11 @@
+<ExtensionLibrary Name="GXsandbox">
+	<Implements>
+		<ExternalObject name="BatteryEO"/>
+	</Implements>
+	<Android>
+		<GroupId>com.gxsandbox</GroupId>
+		<Name>sandbox</Name>
+		<Version>1.0</Version>
+		<ModuleClass>com.gxsandbox.sandbox.SampleModule</ModuleClass>
+	</Android>
+</ExtensionLibrary>
